@@ -1,0 +1,106 @@
+# Fill in, commit and push each day.
+# Group Member: Jin Chun
+
+Oct 23, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 25, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 26, 2017
+	Yesterday :n/as
+	Today     :Work on replacing text in buttons with icons representing various shapes. 
+	Obstacles :Adding icons in buttons is a new concept uncovered in course material. Additional research is expected. 
+
+Oct 27, 2017
+	Yesterday :Could add icons but ran into difficulty with selecting them through relative class path. 
+	Today     :Try to work on icon feature, if possible. However, 207 test may take up too much time for me to 
+			work properly.
+	Obstacles :n/a
+
+Oct 28, 2017
+	Yesterday :Couldn't do much work because of 207 test preparation.
+	Today     :Add icons to buttons using relative class path, so feature is visible from other computers as well. 
+	Obstacles :Figuring out how to implement relative class path. 
+
+Oct 29, 2017
+	Yesterday : Solved issue of locating icon image files through relative class path. Completed Bug1.
+	Today     : Aim to complete Bug2. Indiciate drawing mode selected through disabling that button. 
+	Obstacles : n/a
+
+Oct 30, 2017
+	Yesterday : Completed Bug2 and merged with master branch. Committed them to origin. Created new Branch for UserStory5.
+	Today     : Aim to complete UserStory5. Create way of selecting color through buttons. 
+	Obstacles : Working through the concept of selecting colors for drawings.
+
+Oct 31, 2017
+	Yesterday : Completed partially UserStory5, including creating buttons for colors.
+	Today     : Further implement features needed for color selector, and aim to finish. 
+	Obstacles : n/a
+
+Nov 1, 2017
+	Yesterday :Ran into unexpected obstancle of distinguishing button where action was performed.
+	Today     :Aim to figure out the bug that occured from solving Bug#1 and aim to finish UserStory5.
+	Obstacles :figuring out how to distinguish button when their getActionCommand() method doesn't apply anymore due to having images instead of text.
+	
+Nov 2, 2017
+	Yesterday :Solved bug that occured later from finishing user story Bug#1. Created a proper user friendly color selector interface.
+	Today     :Realized more color options are necessary. Reconsider color selector implementation and explore different, perhaps more user friendly and effective interface.
+	Obstacles :Choosing which implementation works best may need some time.
+	
+Nov 3, 2017
+	Yesterday : Decided that going with current JComboBox implementation, but with smaller, but more various color images, is best. 
+	Today     :Edit all color images to make at least 20 variations for spectrum effect and make them smaller. 
+	Obstacles :Reading image files from a hashmap will have definite hiccups. 
+
+Nov 4, 2017
+	Yesterday :Created around 20 different color images with dimensions 200x30 to fit into JComboBox. 
+	Today     :Finalize ColorSelector and make sure all features are running as intended. 
+	Obstacles :Implementing hsmap.ser as LinkedHashMap data structure. 
+
+Nov 5, 2017
+	Yesterday :Almost finalized, but still had a bug with the previous drawn shapes' color changing as well when new color was chosen.
+	Today     :Finish ColorSelector and finish documentation and smoothen out any bugs, along with changing method of constructing icons in panels.
+	Obstacles :Fixing bug of maintaing previously drawn shape's colors when new color's chosen. 
+
+Nov 9, 2017
+	Yesterday :n/a
+	Today     :Create and select user stories, including U.S. 2.2 and 2.3 and add them to sprint backlog. 
+	Obstacles :None expected. 
+
+Nov 10, 2017
+	Yesterday :Took care of all user story related tasks and set path to complete them, including making a 
+			new branch for U.S. 2.2. 
+	Today     :Start working on creating the structure for completing a blank canvas functionality.
+	Obstacles :The dynamics of working around the graphic component of Java may come as a challenge. 
+
+Nov 11, 2017
+	Yesterday :Did extensive research on the grphic component, especially in regards to the method paintComponent() and decided 
+			that a separate panel for the user to make use of blank canvas feature. 
+	Today     :Create a separate panel class for the user to interact with. 
+	Obstacles :None expected. 
+
+Nov 12, 2017
+	Yesterday :Created a separate panel class, named EraserPanel.
+	Today     :Continue implementing on EraserPanel, until deliverable is visible.
+	Obstacles :None expected.
+
+Nov 13, 2017
+	Yesterday :Continued implementing on EraserPanel.
+	Today     :Try to finish EraserPanel by today.
+	Obstacles :Implementing while taking into consideration an effective design pattern may present itself as a challenge.
+
+Nov 14, 2017
+	Yesterday :Realized that the JMenuBar implementation would be more user friendly. Hence, decided to re-do my previous work.
+	Today     :Finish blank canvas feature today and aim to complete inverting images to negative feature as well. 
+			Also, add any additional new user stories deemed possible, such as save or exit feature.
+	Obstacles :The code implementation for inverting images to negative may be a challenge as it dives deep into graphical context. 

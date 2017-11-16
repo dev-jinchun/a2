@@ -1,0 +1,118 @@
+# Fill in, commit and push each day.
+# Group Member: James Tenorlas
+
+Oct 23, 2017
+	Yesterday : Nothing
+	Today     : Created branch, added contact information
+				to members.txt
+	Obstacles : None
+
+Oct 24, 2017
+	Yesterday : Created member branch, added contact information
+	Today     : No progress was made
+	Obstacles : None
+
+Oct 25, 2017
+	Yesterday : No progress
+	Today     : Create branches for Bug 6 and 5, update logs
+	Obstacles : None
+
+Oct 26, 2017
+	Yesterday : Created branched for bug 5 and 6
+	Today     : Create branch for user story 3
+	Obstacles : None
+
+Oct 27, 2017
+	Yesterday : Created branch for user story 3
+	Today     : No progress
+	Obstacles : None
+
+Oct 28, 2017
+	Yesterday : Break
+	Today     : Break
+	Obstacles : Other assignments
+
+Oct 29, 2017
+	Yesterday : Break
+	Today     : Break
+	Obstacles : Other assignments
+
+Oct 30, 2017
+	Yesterday : Break
+	Today     : Break
+	Obstacles : Other assignments
+
+Oct 31, 2017
+	Yesterday : Break
+	Today     : Fix Bug 5 and 6, implement story 3
+	Obstacles : None
+
+Nov 1, 2017
+	Yesterday : Completed Bug5/6, started userStory3
+	Today     : Finish implementation of userStory3
+	Obstacles : None
+	
+Nov 2, 2017
+	Yesterday : Implemented UserStory3
+	Today     : Break
+	Obstacles : None
+	
+Nov 3, 2017
+	Yesterday : Break
+	Today     : Added branch for user story 8
+	Obstacles : None
+
+Nov 4, 2017
+	Yesterday : Added branch for user story 8
+	Today     : Implemented square
+	Obstacles : None
+
+Nov 5, 2017
+	Yesterday : Added branch for user story 8
+	Today     : Finish implementing square, implement square feedback and draw polyline.
+	Obstacles : None
+	
+Nov 6, 2017
+	Yesterday : Finished implementing squre, is feedback and polyline
+	Today	  : Break
+	Obstacles : None
+	
+Nov 7, 2017
+	Yesterday : Break
+	Today	  : Oragnized the product and sprint logs
+	Obstacles : None
+	
+Nov 8, 2017
+	Yesterday : Organized logs and re-added code from previous commits
+	Today	  : None
+	Obstacles : None
+	
+Nov 9, 2017
+	Yesterday : Break
+	Today	  : Break
+	Obstacles : None
+	
+Nov 10, 2017
+	Yesterday : Break
+	Today	  : Create branch for bug 2.5
+	Obstacles : None
+	
+Nov 11, 2017
+	Yesterday : Create branch for 2.5
+	Today	  : Break
+	Obstacles : None
+	
+Nov 12, 2017
+	Yesterday : Break
+	Today	  : Fix polyine and rectangle feedback, implement Bug2.1 
+	Obstacles : None
+	
+Nov 13, 2017
+	Yesterday : Fixed polyline and rectangle feedback, implemented Bug 2.1
+	Today 	  : Break
+	Obstacles : None
+	
+Nov 14, 2017
+	Yesterday : Break
+	Today	  : Code/log cleanup, adding additional elements
+	Obstacles : None
